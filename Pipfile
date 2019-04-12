@@ -10,6 +10,11 @@ pytest-watch = "*"
 [packages]
 flask = "*"
 flask-socketio = "*"
+requests = "*"
+flask-restful = "*"
+flask-jwt = "*"
+flask-sqlalchemy = "*"
+redis = "*"
 
 [requires]
 python_version = "3.7"
