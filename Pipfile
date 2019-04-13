@@ -13,8 +13,10 @@ flask-socketio = "*"
 requests = "*"
 flask-restful = "*"
 flask-jwt = "*"
-flask-sqlalchemy = "*"
-redis = "*"
+lnd-grpc = "*"
+peewee = "*"
+flask-admin = "*"
+wtf-peewee = "*"
 
 [requires]
 python_version = "3.7"
